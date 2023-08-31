@@ -5,4 +5,4 @@
   * 03_crush: https://www.hackerrank.com/challenges/crush/problem
   * 04_2d_array: https://www.hackerrank.com/challenges/2d-array/problem
   * 05_dynamic_array: https://www.hackerrank.com/challenges/dynamic-array/problem
-  * 06_grading: https://www.hackerrank.com/challenges/grading/problem
+
