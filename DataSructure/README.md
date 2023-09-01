@@ -6,3 +6,4 @@
   * 04_2d_array: https://www.hackerrank.com/challenges/2d-array/problem
   * 05_dynamic_array: https://www.hackerrank.com/challenges/dynamic-array/problem
   * 06_array_left_rotation: https://www.hackerrank.com/challenges/array-left-rotation/problem
+  * 07_print_linked_list: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
