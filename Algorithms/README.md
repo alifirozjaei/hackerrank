@@ -7,3 +7,4 @@
   * 05_day_of_the_programmer: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
   * 06_grading: https://www.hackerrank.com/challenges/grading/problem
   * 07_sock_merchant: https://www.hackerrank.com/challenges/sock-merchant/problem
+  * 08_designer_pdf_viewer: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
