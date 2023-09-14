@@ -10,3 +10,4 @@
   * 08_preorder_traversal_of_binary_tree: https://www.hackerrank.com/challenges/tree-preorder-traversal/problem
   * 09_tree_inorder_traversal: https://www.hackerrank.com/challenges/tree-inorder-traversal/problem
   * 10-delete-duplicate-value-nodes-from-a-sorted-linked-list: https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem
+  * 11-insert-a-node-at-the-tail-of-a-linked-list: https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem
