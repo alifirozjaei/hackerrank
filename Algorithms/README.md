@@ -11,3 +11,4 @@
   * 09_non_divisible_subset: https://www.hackerrank.com/challenges/non-divisible-subset/problem
   * 10-the-hurdle-race: https://www.hackerrank.com/challenges/the-hurdle-race/problem
   * 11-diagonal-difference: https://www.hackerrank.com/challenges/diagonal-difference/problem
+  * 12-staircase: https://www.hackerrank.com/challenges/staircase/problem
