@@ -13,3 +13,4 @@
   * 11-diagonal-difference: https://www.hackerrank.com/challenges/diagonal-difference/problem
   * 12-staircase: https://www.hackerrank.com/challenges/staircase/problem
   * 13-birthday-cake-candles: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+  * 14-encryption: https://www.hackerrank.com/challenges/encryption/problem
