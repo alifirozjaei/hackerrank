@@ -10,3 +10,4 @@
   * 08_designer_pdf_viewer: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
   * 09_non_divisible_subset: https://www.hackerrank.com/challenges/non-divisible-subset/problem
   * 10-the-hurdle-race: https://www.hackerrank.com/challenges/the-hurdle-race/problem
+  * 11-diagonal-difference: https://www.hackerrank.com/challenges/diagonal-difference/problem
