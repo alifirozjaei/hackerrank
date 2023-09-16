@@ -15,3 +15,4 @@
   * 13-insert-a-node-at-a-specific-position-in-a-linked-list: https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
   * 14-print-the-elements-of-a-linked-list-in-reverse: https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem
   * 15-delete-a-node-from-a-linked-list: https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
+  * 16-reverse-a-linked-list: https://www.hackerrank.com/challenges/reverse-a-linked-list/problem
