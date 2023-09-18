@@ -16,3 +16,4 @@
   * 14-encryption: https://www.hackerrank.com/challenges/encryption/problem
   * 15-the-time-in-words: https://www.hackerrank.com/challenges/the-time-in-words/problem
   * 16-migratory-birds: https://www.hackerrank.com/challenges/migratory-birds/problem
+  * 17-bon-appetit: https://www.hackerrank.com/challenges/bon-appetit/problem
