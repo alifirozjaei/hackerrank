@@ -19,3 +19,4 @@
   * 17-bon-appetit: https://www.hackerrank.com/challenges/bon-appetit/problem
   * 18-circular-array-rotation: https://www.hackerrank.com/challenges/circular-array-rotation/problem
   * 19-flipping-bits: https://www.hackerrank.com/challenges/flipping-bits/problem
+  * 20-cut-the-sticks: https://www.hackerrank.com/challenges/cut-the-sticks/problem
