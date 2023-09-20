@@ -17,3 +17,4 @@
   * 15-delete-a-node-from-a-linked-list: https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
   * 16-reverse-a-linked-list: https://www.hackerrank.com/challenges/reverse-a-linked-list/problem
   * 17-simple-text-editor: https://www.hackerrank.com/challenges/simple-text-editor/problem
+  * 18-contacts (Trie): https://www.hackerrank.com/challenges/contacts/problem
