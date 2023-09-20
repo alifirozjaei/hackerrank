@@ -19,3 +19,4 @@
   * 17-simple-text-editor: https://www.hackerrank.com/challenges/simple-text-editor/problem
   * 18-contacts (Trie): https://www.hackerrank.com/challenges/contacts/problem
   * 19-maximum-element (Stack): https://www.hackerrank.com/challenges/maximum-element/problem
+  * 20-equal-stacks (Stack): https://www.hackerrank.com/challenges/equal-stacks/problem
