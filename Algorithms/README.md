@@ -21,3 +21,4 @@
   * 19-flipping-bits: https://www.hackerrank.com/challenges/flipping-bits/problem
   * 20-cut-the-sticks: https://www.hackerrank.com/challenges/cut-the-sticks/problem
   * 21-counting-valleys: https://www.hackerrank.com/challenges/counting-valleys/problem
+  * 22-utopian-tree: https://www.hackerrank.com/challenges/utopian-tree/problem
