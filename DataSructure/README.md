@@ -22,4 +22,4 @@
   * 20-equal-stacks (Stack): https://www.hackerrank.com/challenges/equal-stacks/problem
   * 21-compare-two-linked-lists: https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
   * 22-get-the-value-of-the-node-at-a-specific-position-from-the-tail: https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem
-  * 23-23-merge-two-sorted-linked-lists: https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem
+  * 23-merge-two-sorted-linked-lists: https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem
