@@ -23,3 +23,4 @@
   * 21-compare-two-linked-lists: https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
   * 22-get-the-value-of-the-node-at-a-specific-position-from-the-tail: https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem
   * 23-merge-two-sorted-linked-lists: https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem
+  * 24-insert-a-node-into-a-sorted-doubly-linked-list: https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem
