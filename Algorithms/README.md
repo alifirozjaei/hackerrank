@@ -23,3 +23,4 @@
   * 21-counting-valleys: https://www.hackerrank.com/challenges/counting-valleys/problem
   * 22-utopian-tree: https://www.hackerrank.com/challenges/utopian-tree/problem
   * 23-drawing-book: https://www.hackerrank.com/challenges/drawing-book/problem
+  * 24-kangaroo: https://www.hackerrank.com/challenges/kangaroo/problem
