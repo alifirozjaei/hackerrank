@@ -25,3 +25,4 @@
   * 23-drawing-book: https://www.hackerrank.com/challenges/drawing-book/problem
   * 24-kangaroo: https://www.hackerrank.com/challenges/kangaroo/problem
   * 25-minimum-distances: https://www.hackerrank.com/challenges/minimum-distances/problem
+  * 26-halloween-sale: https://www.hackerrank.com/challenges/halloween-sale/problem
