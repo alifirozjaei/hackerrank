@@ -24,3 +24,4 @@
   * 22-utopian-tree: https://www.hackerrank.com/challenges/utopian-tree/problem
   * 23-drawing-book: https://www.hackerrank.com/challenges/drawing-book/problem
   * 24-kangaroo: https://www.hackerrank.com/challenges/kangaroo/problem
+  * 25-minimum-distances: https://www.hackerrank.com/challenges/minimum-distances/problem
