@@ -25,3 +25,4 @@
   * 23-merge-two-sorted-linked-lists: https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem
   * 24-insert-a-node-into-a-sorted-doubly-linked-list: https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem
   * 25-queue-using-two-stacks: https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
+  * 26-balanced-brackets: https://www.hackerrank.com/challenges/balanced-brackets/problem
