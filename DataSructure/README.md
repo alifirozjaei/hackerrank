@@ -27,3 +27,4 @@
   * 25-queue-using-two-stacks: https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
   * 26-balanced-brackets: https://www.hackerrank.com/challenges/balanced-brackets/problem
   * 27-reverse-a-doubly-linked-list: https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem
+  * 28-tree-height-of-a-binary-tree: https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem
