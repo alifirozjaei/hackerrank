@@ -28,3 +28,4 @@
   * 26-halloween-sale: https://www.hackerrank.com/challenges/halloween-sale/problem
   * 27-strange-advertising: https://www.hackerrank.com/challenges/strange-advertising/problem
   * 28-cats-and-a-mouse: https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+  * 29-append-and-delete: https://www.hackerrank.com/challenges/append-and-delete/problem
