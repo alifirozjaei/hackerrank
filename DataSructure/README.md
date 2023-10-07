@@ -30,3 +30,4 @@
   * 28-tree-height-of-a-binary-tree: https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem
   * 29-tree-level-order-traversal: https://www.hackerrank.com/challenges/tree-level-order-traversal/problem
   * 30-waiter: https://www.hackerrank.com/challenges/waiter/problem
+  * 31-detect-whether-a-linked-list-contains-a-cycle: https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
