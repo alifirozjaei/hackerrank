@@ -29,3 +29,4 @@
   * 27-reverse-a-doubly-linked-list: https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem
   * 28-tree-height-of-a-binary-tree: https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree/problem
   * 29-tree-level-order-traversal: https://www.hackerrank.com/challenges/tree-level-order-traversal/problem
+  * 30-waiter: https://www.hackerrank.com/challenges/waiter/problem
