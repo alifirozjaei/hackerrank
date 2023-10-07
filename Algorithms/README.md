@@ -30,3 +30,4 @@
   * 28-cats-and-a-mouse: https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
   * 29-append-and-delete: https://www.hackerrank.com/challenges/append-and-delete/problem
   * 30-electronics-shop: https://www.hackerrank.com/challenges/electronics-shop/problem
+  * 31-extra-long-factorials: https://www.hackerrank.com/challenges/extra-long-factorials/problem
