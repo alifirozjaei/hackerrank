@@ -31,5 +31,4 @@
   * 29-tree-level-order-traversal: https://www.hackerrank.com/challenges/tree-level-order-traversal/problem
   * 30-waiter: https://www.hackerrank.com/challenges/waiter/problem
   * 31-detect-whether-a-linked-list-contains-a-cycle: https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
-  * 32-beautiful-days-at-the-movies: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
   * 32-find-the-merge-point-of-two-joined-linked-lists: https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem
