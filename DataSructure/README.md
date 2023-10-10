@@ -33,3 +33,4 @@
   * 31-detect-whether-a-linked-list-contains-a-cycle: https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
   * 32-find-the-merge-point-of-two-joined-linked-lists: https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem
   * 33-binary-search-tree-insertion: https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem
+  * 34-no-prefix-set: https://www.hackerrank.com/challenges/no-prefix-set/problem
