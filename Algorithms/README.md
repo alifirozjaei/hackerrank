@@ -34,3 +34,4 @@
   * 32-angry-professor: https://www.hackerrank.com/challenges/angry-professor/problem
   * 33-beautiful-days-at-the-movies: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
   * 34-find-digits: https://www.hackerrank.com/challenges/find-digits/problem
+  * 35-camelcase: https://www.hackerrank.com/challenges/camelcase/problem
