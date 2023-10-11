@@ -34,3 +34,4 @@
   * 32-find-the-merge-point-of-two-joined-linked-lists: https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem
   * 33-binary-search-tree-insertion: https://www.hackerrank.com/challenges/binary-search-tree-insertion/problem
   * 34-no-prefix-set: https://www.hackerrank.com/challenges/no-prefix-set/problem
+  * 35-binary-search-tree-lowest-common-ancestor: https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem
