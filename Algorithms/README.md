@@ -33,3 +33,4 @@
   * 31-extra-long-factorials: https://www.hackerrank.com/challenges/extra-long-factorials/problem
   * 32-angry-professor: https://www.hackerrank.com/challenges/angry-professor/problem
   * 33-beautiful-days-at-the-movies: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+  * 34-find-digits: https://www.hackerrank.com/challenges/find-digits/problem
