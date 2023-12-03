@@ -1,4 +1,4 @@
-## Problem Solving 
+## Algorithms
 
   * 01_time_conversion: https://www.hackerrank.com/challenges/time-conversion/problem
   * 02_breaking-best-and-worst-records: https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
@@ -7,3 +7,31 @@
   * 05_day_of_the_programmer: https://www.hackerrank.com/challenges/day-of-the-programmer/problem
   * 06_grading: https://www.hackerrank.com/challenges/grading/problem
   * 07_sock_merchant: https://www.hackerrank.com/challenges/sock-merchant/problem
+  * 08_designer_pdf_viewer: https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+  * 09_non_divisible_subset: https://www.hackerrank.com/challenges/non-divisible-subset/problem
+  * 10-the-hurdle-race: https://www.hackerrank.com/challenges/the-hurdle-race/problem
+  * 11-diagonal-difference: https://www.hackerrank.com/challenges/diagonal-difference/problem
+  * 12-staircase: https://www.hackerrank.com/challenges/staircase/problem
+  * 13-birthday-cake-candles: https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+  * 14-encryption: https://www.hackerrank.com/challenges/encryption/problem
+  * 15-the-time-in-words: https://www.hackerrank.com/challenges/the-time-in-words/problem
+  * 16-migratory-birds: https://www.hackerrank.com/challenges/migratory-birds/problem
+  * 17-bon-appetit: https://www.hackerrank.com/challenges/bon-appetit/problem
+  * 18-circular-array-rotation: https://www.hackerrank.com/challenges/circular-array-rotation/problem
+  * 19-flipping-bits: https://www.hackerrank.com/challenges/flipping-bits/problem
+  * 20-cut-the-sticks: https://www.hackerrank.com/challenges/cut-the-sticks/problem
+  * 21-counting-valleys: https://www.hackerrank.com/challenges/counting-valleys/problem
+  * 22-utopian-tree: https://www.hackerrank.com/challenges/utopian-tree/problem
+  * 23-drawing-book: https://www.hackerrank.com/challenges/drawing-book/problem
+  * 24-kangaroo: https://www.hackerrank.com/challenges/kangaroo/problem
+  * 25-minimum-distances: https://www.hackerrank.com/challenges/minimum-distances/problem
+  * 26-halloween-sale: https://www.hackerrank.com/challenges/halloween-sale/problem
+  * 27-strange-advertising: https://www.hackerrank.com/challenges/strange-advertising/problem
+  * 28-cats-and-a-mouse: https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+  * 29-append-and-delete: https://www.hackerrank.com/challenges/append-and-delete/problem
+  * 30-electronics-shop: https://www.hackerrank.com/challenges/electronics-shop/problem
+  * 31-extra-long-factorials: https://www.hackerrank.com/challenges/extra-long-factorials/problem
+  * 32-angry-professor: https://www.hackerrank.com/challenges/angry-professor/problem
+  * 33-beautiful-days-at-the-movies: https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem
+  * 34-find-digits: https://www.hackerrank.com/challenges/find-digits/problem
+  * 35-camelcase: https://www.hackerrank.com/challenges/camelcase/problem
